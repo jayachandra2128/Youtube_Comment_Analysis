@@ -8,3 +8,5 @@
  Youtube comments are scraped using youtubeScrape.py and saved into csv/tsv file(test.csv and test.tsv).
  
  Performed comment analysis using NLP(nltk,wordnet,word_tokenize etc)
+ 
+# Open Youtube_comment_Analysis.ipynb
