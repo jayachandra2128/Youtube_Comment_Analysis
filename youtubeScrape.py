@@ -16,7 +16,7 @@ STAGGER_TIME = 1
 
 # open the url and the screen name 
 # (The screen name is the screen name of the user for whom to return results for)
-url = "https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyCYkTUjKgFGcKDnkNQMgSBbb4obnqIzUEM&textFormat=plainText&part=snippet&videoId=Ye8mB6VsUHw&maxResults=250"
+url = "https://www.googleapis.com/youtube/v3/commentThreads?key=AIzaSyCYkTUjKgFGcKDnkNQMgSBbb4obnqIzUEM&textFormat=plainText&part=snippet&videoId=Ye8mB6VsUHw&maxResults=100"
 
 # this takes a python object and dumps it to a string which is a JSON
 # representation of that object
