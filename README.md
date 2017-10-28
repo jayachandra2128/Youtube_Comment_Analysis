@@ -1,6 +1,6 @@
 # Youtube_Comment_Analysis
 # Objective: To find top 10 best similar comments to video transcript
-# Description: 
+# Description and Approach: 
  Extracted Youtube video subtitles/transcript using Youtube_dl
  
  Processed uncleaned downloaded transcript file using Transcript_read.py and saved it into required csv format(transcript.csv).
