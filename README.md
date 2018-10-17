@@ -1,9 +1,9 @@
-# Youtube_Comment_Analysis
-# Objective: To find top 10 best similar comments to video transcript
-# Description:
+## Youtube_Comment_Analysis
+## Objective: To find top 10 best similar comments to video transcript
+## Description:
 Semantic similarity is a confidence score that reflects the semantic relation between the meanings of two sentences. In this project I found semantic similarity between YouTube video transcript and its comments. Further I showed the best similar comments to transcript.
 
-# Approach:
+## Approach:
     
     First each sentence is partitioned into a list of tokens.
     
